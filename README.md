@@ -2,7 +2,7 @@
 
 Blink to take a picture. The page watches your face through the webcam with MediaPipe Face Landmarker, and every time you blink it snaps the area around your eye and stacks it on the screen as a numbered window. While you keep your eyes open a drone tightens; the moment you blink, a shutter clicks. After 16 shots the windows line up in a grid in order, and it starts over.
 
-- Live: https://verytired.github.io/blinkcam/
+- Live: https://verytired.net/web/blinkcam/
 - The camera image is used only inside your browser. Nothing is sent or saved.
 
 Cut out from "blink", a piece in the ひとりaudio/visual series that does the same thing with three AI-generated faces.
